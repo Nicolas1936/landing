@@ -1,0 +1,30 @@
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  text-shadow: 0 0 15px rgba(0, 0, 0, 0.9);
+}
+
+.banner p {
+  color: white;
+  opacity: 0.9;
+  font-size: 20px;
+  font-weight: bolder;
+  text-shadow: 3px 3px 12px rgba(0, 0, 0, 1);
+}
+
+.banner a {
+  display: inline-block;
+  background-color: #d51e7a;
+  color: white;
+  padding: 16px 36px;
+  border-radius: 50px;
+}
+
+.banner a:hover {
+  background-color: #9f165b;
+}
